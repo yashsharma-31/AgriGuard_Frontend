@@ -1,0 +1,16 @@
+.footerLogo {
+  height: 100px;
+  width: 100px;
+  background-color: aliceblue;
+  border-radius: 50%;
+}
+
+.footerBgImg {
+  height: 119px;
+  width: 100%;
+}
+
+.socialIcons {
+  height: 35px;
+  width: 35px;
+}
